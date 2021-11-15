@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/google-maps-demo/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/google-maps-demo/static/js/main.cfccf994.chunk.js",
+    "main.js.map": "/google-maps-demo/static/js/main.cfccf994.chunk.js.map",
+    "runtime-main.js": "/google-maps-demo/static/js/runtime-main.92f551be.js",
+    "runtime-main.js.map": "/google-maps-demo/static/js/runtime-main.92f551be.js.map",
+    "static/js/2.dff03fc6.chunk.js": "/google-maps-demo/static/js/2.dff03fc6.chunk.js",
+    "static/js/2.dff03fc6.chunk.js.map": "/google-maps-demo/static/js/2.dff03fc6.chunk.js.map",
+    "static/js/3.fb2cf723.chunk.js": "/google-maps-demo/static/js/3.fb2cf723.chunk.js",
+    "static/js/3.fb2cf723.chunk.js.map": "/google-maps-demo/static/js/3.fb2cf723.chunk.js.map",
+    "index.html": "/google-maps-demo/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/google-maps-demo/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.dff03fc6.chunk.js.LICENSE.txt": "/google-maps-demo/static/js/2.dff03fc6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/google-maps-demo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92f551be.js",
+    "static/js/2.dff03fc6.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.cfccf994.chunk.js"
+  ]
+}
